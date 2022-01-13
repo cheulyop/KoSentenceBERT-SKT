@@ -41,6 +41,7 @@ credentials/
 analysis/
 **/credentials.json
 .cache/
+*.pt
 
 # logs and results
 logs/
