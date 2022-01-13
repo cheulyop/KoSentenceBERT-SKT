@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java
+.java/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+notebooks/
+
+# others
+.DS_Store
+.idea
+.pyc
+.vscode
+.env
+nohup.out
+credentials/
+analysis/
+**/credentials.json
+.cache/
+
+# logs and results
+logs/
+results/
+lightning_logs/
+outputs/
+wandb/
